@@ -5,5 +5,5 @@
 ![alt text](https://storage.googleapis.com/universe-of-marissa-meyer-production/uploads/images/lunarchroniclesboxedsetTP.width-400.png)
 
 <p align="center">
-  <img width="460" height="500" src="https://images.gr-assets.com/polls/1380398422p7/91309.jpg">
+  <img width="211" height="239" src="https://images.gr-assets.com/polls/1380398422p7/91309.jpg">
 </p>
