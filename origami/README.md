@@ -1,1 +1,1 @@
-Pictures of origami
+Pictures of origami coming soon!
