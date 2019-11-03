@@ -4,4 +4,6 @@
 
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/91z2qkJKyIL.jpg)
 
-![alt text](https://storage.googleapis.com/universe-of-marissa-meyer-production/uploads/images/lunarchroniclesboxedsetTP.width-400.png)
+<p align="center">
+  <img width="400" height="393" src="https://storage.googleapis.com/universe-of-marissa-meyer-production/uploads/images/lunarchroniclesboxedsetTP.width-400.png">
+</p>
