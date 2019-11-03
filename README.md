@@ -15,4 +15,4 @@
 
 [More Books!](https://rachel-solomon.github.io/books)
 
-![alt text](https://rachel-solomon.github.io/Heartorigami.png)
+![alt text](https://github.com/rachel-solomon/rachel-solomon.github.io/blob/master/Heartorigami.jpg)
