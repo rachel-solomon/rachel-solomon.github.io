@@ -15,6 +15,6 @@
 
 [More Books!](https://rachel-solomon.github.io/books)
 
-![alt text](https://github.com/rachel-solomon/rachel-solomon.github.io/blob/master/Heartorigami.jpg)
+![alt text](https://rachel-solomon.github.io/Heartorigami.jpg)
 
 [More Origami!](https://rachel-solomon.github.io/origami)
