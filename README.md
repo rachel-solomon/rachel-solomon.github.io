@@ -18,6 +18,6 @@
 
 [More Origami!](https://rachel-solomon.github.io/origami)
 
-![alt text](https://github.com/rachel-solomon/rachel-solomon.github.io/blob/master/china%20trip%20cover.jpg)
+![alt text](https://github.com/rachel-solomon/rachel-solomon.github.io/blob/master/china%20trip%20cover.jpg?raw=true)
 
 [More Presentations!](https://rachel-solomon.github.io/Presentations)
