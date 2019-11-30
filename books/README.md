@@ -1,7 +1,7 @@
 # Books!
 
 <p align="center">
-  <img width="211" height="239" src="https://images.gr-assets.com/polls/1380398422p7/91309.jpg">
+  <img width="589" height="788" src="https://rachel-solomon.github.io/harry potter 1.png">
 </p>
 
 <p align="center">
