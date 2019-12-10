@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/rachel-solomon/flowerincoolcanvas.png">
+  <img width="500" height="500" src="https://rachel-solomon.github.io/flowerincoolcanvas.png">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/rachel-solomon/smile.png">
+  <img width="500" height="500" src="https://rachel-solomon.github.io/smile.png">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img width="444" height="292" src="https://github.com/rachel-solomon/purpleflower.jpeg">
+  <img width="444" height="292" src="https://rachel-solomon.github.io/purpleflower.jpeg">
 </p>
 
 <p align="center">
