@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <img width="600" height="600" src="https://lh3.googleusercontent.com/2MOWfCeJsPL7vb4uJhFN7Lsap7KXFGNOkZzaNUwj9Z3t-bj2vhmFEqIjLF09wDt-lzCYpfAlwniFF4gNkyytkfc4Y_dNoqxU5Ga_4YYrI0O4z0DJFLLpC2J4FAlnrTVtJI859vPlhDpyT_APWg2k-cw8PTiN7jI2Kpou5KwbVqyDG-7L_DoIBX7JR4bOOsM1pSa1_zxqYR7wBDfmRtUoDMzFSNbZNXPj6v_TZxoPZ90wrn05qFU6JVGaaIuxB_MX4gjIhzzbGIlu5yhKWvnFbMtfEA2ql2PHk1qsajSGOS3dUdQmR2duQSGh5amV6yWTmsMdENvxh2Joq_qPzYSDeRpJyQBm_yxqdRezu1AiyHKbplxveb6p3LQaYZ-mgFZWkxVkXuqiH_ReVRWKZczbWND8U0QwHmva0OYdab4TcgN064L5-_6JcBFB1tTCsdfFlsyS1z0msHxbkc-xex-umI0AWNeWIerj91CzKb72UGWjfBHgBPtLoG4NCSmj2H10jDtztL2fLTY5SaN6-u3_oceEIh3-JhqCASzEnOTewEUvBMz6xF1QyhIpz8AVsEOAGjusPP20rje9qG0y_AAihlYYjkW_hYk32gi_j_xaJHqhwW5tT5iEcUCGUPkRjHmZ9CchPw7BQXguKwwWRxAOJlyHFJ9Iu3T1RAjibm1uH8AgxgDREX3USQ=s500-no">
+</p>
+
+<p align="center">
   <img width="438" height="750" src="https://rachel-solomon.github.io/MistakesQuote.png">
 </p>
 
