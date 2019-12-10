@@ -1,4 +1,4 @@
-# Welcome To My Website! :)  <3
+# Welcome To My Website! :)
 
 ### This is a compilation of random interests of mine. I hope you enjoy!
 
