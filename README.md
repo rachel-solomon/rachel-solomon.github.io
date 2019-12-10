@@ -8,7 +8,7 @@
 
 ![alt text](https://rachel-solomon.github.io/TryToBeARainbowInSomeoneElse'sCloud.png)
 
-[More inspirational/motivational quotes!](https://rachel-solomon.github.io/quotes)
+[More quotes and graphic art/ design!](https://rachel-solomon.github.io/quotes)
 
 ![alt text](https://s18670.pcdn.co/wp-content/uploads/Best-Library-Resources-for-Teachers.jpg)
 
