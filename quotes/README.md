@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img width="500" height="500" src="https://rachel-solomon.github.io/happy fall!.jpeg">
+</p>
+
+<p align="center">
   <img width="381" height="383" src="https://rachel-solomon.github.io/pomegranite.JPG">
 </p>
 
