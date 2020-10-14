@@ -51,6 +51,6 @@
 </p>
 
 <p align="center">
-  <img width="600" height="468.75" src="https://rachel-solomon.github.io/girl with balloon.jpeg">
+  <img width="480" height="375" src="https://rachel-solomon.github.io/girl with balloon.jpeg">
 </p>
 
