@@ -1,3 +1,7 @@
+## Quotes/graphic art/design
+
+[Back to homepage :)](https://rachel-solomon.github.io)
+
 <p align="center">
   <img width="502" height="244.719" src="https://rachel-solomon.github.io/TryToBeARainbowInSomeoneElse'sCloud.png">
 </p>
