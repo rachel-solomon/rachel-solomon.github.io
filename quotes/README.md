@@ -3,7 +3,7 @@
 [Back to homepage :)](https://rachel-solomon.github.io)
 
 <p align="center">
-  <img width="480" height="342" src="https://rachel-solomon.github.io/TryToBeARainbowInSomeoneElse'sCloud.png">
+  <img width="502" height="244.719" src="https://rachel-solomon.github.io/TryToBeARainbowInSomeoneElse'sCloud.png">
 </p>
 
 <p align="center">
