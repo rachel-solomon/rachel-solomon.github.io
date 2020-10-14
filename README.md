@@ -2,7 +2,9 @@
 
 ### This is a compilation of random interests of mine. I hope you enjoy!
 
-![alt text](http://newshour.s3.amazonaws.com/photos/2012/09/27/tai_shan_and_mei_xiang_-_smithsonians_national_zoo_1_blog_main_horizontal.jpg)
+<p align="center">
+  <src="http://newshour.s3.amazonaws.com/photos/2012/09/27/tai_shan_and_mei_xiang_-_smithsonians_national_zoo_1_blog_main_horizontal.jpg">
+</p>
 
 [More Pandas!](https://rachel-solomon.github.io/Panda)
 
