@@ -2,7 +2,7 @@
 
 ### This is a compilation of random interests of mine. I hope you enjoy!
 
-![alt text](https://sites.google.com/site/gretamarieh/_/rsrc/1337974893988/home/baby-panda-bears-cubs/mama%20and%20cub.jpg?height=320&width=307)
+![alt text](http://newshour.s3.amazonaws.com/photos/2012/09/27/tai_shan_and_mei_xiang_-_smithsonians_national_zoo_1_blog_main_horizontal.jpg)
 
 [More Pandas!](https://rachel-solomon.github.io/Panda)
 
