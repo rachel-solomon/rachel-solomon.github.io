@@ -1,4 +1,4 @@
-## Quotes/graphic art/design
+## Quotes/graphic art/design!
 
 [Back to homepage :)](https://rachel-solomon.github.io)
 
