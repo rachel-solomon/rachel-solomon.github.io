@@ -17,7 +17,3 @@
 ![alt text](https://rachel-solomon.github.io/Heartorigami.jpg)
 
 [More Origami!](https://rachel-solomon.github.io/origami)
-
-![alt text](https://rachel-solomon.github.io/chinatripcover.jpg)
-
-[More Presentations!](https://rachel-solomon.github.io/Presentations)
