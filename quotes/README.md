@@ -7,15 +7,11 @@
 </p>
 
 <p align="center">
-  <img width="438" height="750" src="https://rachel-solomon.github.io/AragornQuote.png">
+  <img width="381" height="383" src="https://rachel-solomon.github.io/pomegranite.JPG">
 </p>
 
 <p align="center">
   <img width="500" height="500" src="https://rachel-solomon.github.io/other background.png">
-</p>
-
-<p align="center">
-  <img width="438" height="750" src="https://rachel-solomon.github.io/SamQuoteLOTR.png">
 </p>
 
 <p align="center">
@@ -32,6 +28,14 @@
 
 <p align="center">
   <img width="350" height="600" src="https://rachel-solomon.github.io/GiftQuote.png">
+</p>
+
+<p align="center">
+  <img width="438" height="750" src="https://rachel-solomon.github.io/SamQuoteLOTR.png">
+</p>
+
+<p align="center">
+  <img width="438" height="750" src="https://rachel-solomon.github.io/AragornQuote.png">
 </p>
 
 <p align="center">
