@@ -6,7 +6,7 @@
 
 <p align="center">
   <img width="491" height="521" src="https://sites.google.com/site/gretamarieh/_/rsrc/1337974893988/home/baby-panda-bears-cubs/mama%20and%20cub.jpg?height=512&width=491">
-</p>https://sites.google.com/site/gretamarieh/_/rsrc/1337974893988/home/baby-panda-bears-cubs/mama%20and%20cub.jpg?height=512&width=491)
+</p>
 
 ![alt text](https://www.thewrap.com/wp-content/uploads/2017/04/BornInChina5890f4f834ede.jpg)
 
