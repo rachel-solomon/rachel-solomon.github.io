@@ -1,5 +1,7 @@
 # Books!
 
+[Back to homepage :)](https://rachel-solomon.github.io)
+
 <p align="center">
   <img width="589" height="788" src="https://rachel-solomon.github.io/harry potter 1.png">
 </p>
